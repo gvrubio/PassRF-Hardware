@@ -6,6 +6,8 @@ PassRF serves as a bridge between your smartphone's password manager and the tar
 
 It functions by creating an access point with a small HTTP server. This server includes a field where you can paste the password you want PassRF to input.
 
+It will act as an USB keyboard, no drivers required, nothing to install on the destination device.
+
 ## The current features of PassRF include:
 
 - WPA2-PSK AES
