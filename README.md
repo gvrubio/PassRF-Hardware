@@ -37,8 +37,6 @@ The hardware is dirt cheap and should be easy to buy and build.
 Here is how the PCB looks:
 ![PassRF](https://github.com/gvrubio/PassRF-Arduino/assets/82053814/751e838e-2f41-40b8-b52c-9649d4af47c7)
 
-And here is the upload:
-
 ## What are some features expected on the future:
 - Reset button to restart the WPA password wizard.
 - Automatic password reset on different client connection.
@@ -52,3 +50,9 @@ And here is the upload:
 - SSL between the smartphone and the web server. <- This hasn't been implemented because it would significantly complicate the setup process. I'm open to hearing other ideas.
 - Metalic case to avoid the serial signal to be catched over the air. Help us Faraday. <- Use some altoids or any other metallic case, solder a wire to the case and put it to the device ground.
 - Encryption on the serial communication. <- AES on an 8-bit arduino? Maybe xD. I hear ideas as well.
+
+  Link to the Arduino code:
+  [LINK](https://github.com/gvrubio/PassRF-Arduino)
+
+  Link to the ESP32 code:
+  [LINK](https://github.com/gvrubio/PassRF-ESP8266)
