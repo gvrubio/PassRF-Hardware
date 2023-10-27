@@ -55,5 +55,5 @@ Here is how the PCB looks:
   Link to the Arduino code:
   [LINK](https://github.com/gvrubio/PassRF-Arduino)
 
-  Link to the ESP32 code:
+  Link to the ESP8266 code:
   [LINK](https://github.com/gvrubio/PassRF-ESP8266)
