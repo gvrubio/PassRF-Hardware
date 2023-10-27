@@ -51,6 +51,7 @@ Here is how the PCB looks:
 - Metalic case to avoid the serial signal to be catched over the air. Help us Faraday. <- Use some altoids or any other metallic case, solder a wire to the case and put it to the device ground.
 - Encryption on the serial communication. <- AES on an 8-bit arduino? Maybe xD. I hear ideas as well.
 
+## The rest of the repos:
   Link to the Arduino code:
   [LINK](https://github.com/gvrubio/PassRF-Arduino)
 
